@@ -6,7 +6,6 @@
 
 - 🌱 Machine Learning is my Superpower.
 -  👯 Actively learning and solving real-life problems with ML.
-- 🔭 I’m currently working on OCR and Sign Language Recognition Projects.
 - 📫 Connect me in : https://www.linkedin.com/in/soorya-prakash-bb15221a0/
 
 
