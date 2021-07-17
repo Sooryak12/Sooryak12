@@ -5,7 +5,8 @@
 
 
 - 🌱 Machine Learning is my Superpower.
--  👯 Actively learning and solving real-life problems with ML.
+- 👯 Actively learning and solving real-life problems with ML.
+- ⚡ Resume :https://drive.google.com/file/d/1HWYzGnB4wFcoMKofTAzbLgjsLGMderrQ/view
 - 📫 Connect me at : https://www.linkedin.com/in/soorya-prakash-bb15221a0/
 
 
@@ -20,6 +21,6 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 Connect me in : https://www.linkedin.com/in/soorya-prakash-bb15221a0/
-- ⚡ Fun fact: ...
+
 -->
 
