@@ -9,7 +9,7 @@
 - ⚡ Resume :https://drive.google.com/file/d/1HWYzGnB4wFcoMKofTAzbLgjsLGMderrQ/view
 - 📫 Connect me at : https://www.linkedin.com/in/soorya-prakash-bb15221a0/
 
-### Visits from 12 Dec 2021 : ![Visitor Count](https://profile-counter.glitch.me/Sooryak12/count.svg)
+
 
 
 <!--
