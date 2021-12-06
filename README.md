@@ -9,6 +9,8 @@
 - ⚡ Resume :https://drive.google.com/file/d/1HWYzGnB4wFcoMKofTAzbLgjsLGMderrQ/view
 - 📫 Connect me at : https://www.linkedin.com/in/soorya-prakash-bb15221a0/
 
+![Visitor Count](https://profile-counter.glitch.me/Sooryak12/count.svg)
+
 
 <!--
 **Sooryak12/Sooryak12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -23,4 +25,5 @@ Here are some ideas to get you started:
 - 📫 Connect me in : https://www.linkedin.com/in/soorya-prakash-bb15221a0/
 
 -->
+
 
