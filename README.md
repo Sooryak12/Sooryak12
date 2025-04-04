@@ -1,7 +1,7 @@
 ### Hi there I'm Soorya Prakash 👋
 
 
-#### I'm a Data Science Enthusiast from India.
+#### I'm a AI/ML Computational Science Analyst from India.
 
 
 - 🌱 Machine Learning is my Superpower.
